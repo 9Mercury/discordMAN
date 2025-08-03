@@ -194,6 +194,10 @@ python tests/test_gemini.py
 python tests/find_api_endpoint.py
 ```
 
+## Working Example
+
+<img width="953" height="676" alt="image" src="https://github.com/user-attachments/assets/b376e3f0-5c64-4248-817d-5577aed8271a" />
+
 ## 🐛 Troubleshooting
 
 ### Common Issues
