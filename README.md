@@ -318,14 +318,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/discord-washing-machine-bot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/discord-washing-machine-bot/discussions)
-- **Email**: support@yourproject.com
+- **Issues**: [GitHub Issues](https://github.com/9Mercury/discord-washing-machine-bot/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/9Mercury/discord-washing-machine-bot/discussions)
+- **Email**: singhyuvi916@gmail.com
 
 ---
 
 Made with ❤️ for better washing machine support
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/discord-washing-machine-bot.svg)](https://github.com/yourusername/discord-washing-machine-bot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/discord-washing-machine-bot.svg)](https://github.com/yourusername/discord-washing-machine-bot/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/discord-washing-machine-bot.svg)](https://github.com/yourusername/discord-washing-machine-bot/issues)
+[![GitHub stars](https://img.shields.io/github/stars/9Mercury/discord-washing-machine-bot.svg)](https://github.com/9Mercury/discord-washing-machine-bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/9Mercury/discord-washing-machine-bot.svg)](https://github.com/9Mercury/discord-washing-machine-bot/network)
+[![GitHub issues](https://img.shields.io/github/issues/9Mercury/discord-washing-machine-bot.svg)](https://github.com/9Mercury/discord-washing-machine-bot/issues)
