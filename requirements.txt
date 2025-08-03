@@ -1,0 +1,17 @@
+# Discord Washing Machine Support Bot - Dependencies
+
+# Discord API
+discord.py>=2.3.0
+
+# HTTP Requests
+aiohttp>=3.8.0
+requests>=2.31.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# Optional: Development Dependencies
+# Uncomment for development/testing
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
